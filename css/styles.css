@@ -1,14 +1,17 @@
 .about {
   color: purple;
   background-color: skyblue;
+  margin-top:40px;
 }
 
 .post1 {
   color: blue;
   background-color: beige;
+  margin-top:40px;
 }
 
 .post2 {
   color: jade;
   background-color: gold;
+  margin-top:40px;
 }
